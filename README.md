@@ -4,7 +4,7 @@ const miradacsc = {
   name: Claudia
   pronouns: "she" | "her",
   thingsILove: ["horror movies", "music", "tech", "travel", "ux design" , "languages", "beer"],
-  code: [Javascript, HTML, CSS, Ruby, Python],
+  code: [Javascript, HTML, CSS, Python],
   technologies: {
      backEnd: [Node, Express, Django],
      databases: ["MySql"],
