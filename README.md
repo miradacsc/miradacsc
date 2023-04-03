@@ -4,11 +4,11 @@ const miradacsc = {
   name: Claudia
   pronouns: "she" | "her",
   thingsILove: ["horror movies", "music", "tech", "travel", "ux design" , "languages", "beer"],
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Java, C#],
   technologies: {
-     backEnd: [Node, Express, Django],
+     backEnd: [Node, Express],
      databases: ["MySql"],
-     nextOnTheList: ["react", "Vue", "flask"],
+     nextOnTheList: ["react","Angular"],
   },
   
  challenge: "I am currently studying Full Stack Junior thanks to two scholarships, one from Argentina 'Yo Programo' and another from México 'Tech4Inclusion'"
