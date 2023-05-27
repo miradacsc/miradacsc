@@ -12,7 +12,8 @@ const miradacsc = {
      nextOnTheList: ["C#",".NET"],
   },
   
-Challenge: "I am currently about to complete the 'INICIATEC - TESTING QA' program thanks to MINDHUB and ACCENTURE, which strengthens my preparation as a tester and drives me to seek exciting opportunities in the field of software testing."
+Challenge: "I am currently about to complete the 'INICIATEC - TESTING QA' program thanks to MINDHUB and ACCENTURE,
+which strengthens my preparation as a tester and drives me to seek exciting opportunities in the field of software testing."
 }
 
 
