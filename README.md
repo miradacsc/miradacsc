@@ -4,14 +4,15 @@ const miradacsc = {
   name: Claudia
   pronouns: "she" | "her",
   thingsILove: ["horror movies", "music", "tech", "travel", "ux design" , "languages", "beer"],
-  code: [Javascript, HTML, CSS, Java, C#],
+  code: ["HTML", "CSS", "Javascript", "Java", "Angular"],
+  tools: ["Slack", "Jira", "Postman", "Trello"],
   technologies: {
      backEnd: [Node, Express],
      databases: ["MySql"],
-     nextOnTheList: ["react","Angular"],
+     nextOnTheList: ["C#",".NET"],
   },
   
- challenge: "I am currently studying Full Stack Junior thanks to two scholarships, one from Argentina 'Yo Programo' and another from México 'Tech4Inclusion'"
+Challenge: "I am currently about to complete the 'INICIATEC - TESTING QA' program thanks to MINDHUB and ACCENTURE, which strengthens my preparation as a tester and drives me to seek exciting opportunities in the field of software testing."
 }
 
 
